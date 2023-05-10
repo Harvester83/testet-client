@@ -1,0 +1,7 @@
+.number-success .page-link {
+    background: #d4edda;
+}
+
+.number-wrong .page-link {
+    background: #f8d7da;
+}
